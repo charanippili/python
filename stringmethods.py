@@ -1,0 +1,27 @@
+a="!!Charan!! !!!! Charan!!"
+print(a)
+print(a.upper())
+print(a.lower())
+print(a.rstrip("!"))
+print(a.split())
+print(a.endswith("!!"))
+print(a.endswith("an",5,8))
+print(a.startswith("Cha"))
+b="Python Proramming"
+print(b.istitle())
+print(b.center(50))
+print(b.find("an"))
+print(b.index("on"))
+print(b.replace("Python","Java"))
+print(b.count("a"))
+c="the great story"
+print(c.title())
+print(c.capitalize())
+print(c.isalnum())
+print(c.isalpha())
+print(c.swapcase())
+print(c.isupper())
+print(c.islower())
+print(c.isprintable())
+print(c.isspace())
+

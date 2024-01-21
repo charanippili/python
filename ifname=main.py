@@ -1,0 +1,3 @@
+import captain
+
+captain.hello()
